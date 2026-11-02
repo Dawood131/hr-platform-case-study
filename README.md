@@ -1,6 +1,6 @@
 # HR Web Platform | Frontend Case Study
 
-Case study of a complete HR recruitment platform built from scratch as the sole frontend developer.
+Case study of a complete HR recruitment platform built at **Offneo**, where I worked as the sole frontend developer.
 
 ## Key Features
 
@@ -22,7 +22,7 @@ Sole frontend developer: architecture, UI, state management, and API integration
 
 ## Why there is no live link
 
-This platform was built for a company and is a private product, not publicly deployed. Out of respect for confidentiality, this case study contains no product name, screenshots, or client details.
+This platform was built at Offneo and is a private product, not publicly deployed. Out of respect for confidentiality, this case study contains no product name, screenshots, or client details.
 
 ## Links
 
